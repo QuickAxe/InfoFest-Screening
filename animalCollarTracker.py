@@ -1,5 +1,6 @@
 # this code is to be run on the collars of the stray animals 
-# it updates the gps data on the main server at a set interval 
+# it updates the gps data on the main server at a set interval
+# of 10 minutes  
 
 import requests 
 import time
