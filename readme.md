@@ -1,11 +1,15 @@
-#Running
-##Frontend
+# Running
+
+## Frontend
+
 ```console
 cd animals
 npm start
 ```
 This starts the React app that creates a map at localhost:3000 with points at the locations of the animals
-##Backend
+
+## Backend
+
 ```console
 python manage.py runserver 
 python animalCollarTracker.py
