@@ -26,3 +26,5 @@ API data format for location of an animal :
     "Long" : " _value_ "
 }
 
+Video link : https://drive.google.com/drive/folders/1oXWogcdB6K5uFtS0JJFAuhxCTrGPhF6v?usp=sharing
+
