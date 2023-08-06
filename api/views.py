@@ -23,9 +23,10 @@ def addItem(request):
     return Response()
 
 def addGps(request):
+    
     data = request.data 
-    print(data)
-
+    
+    
     
 
 
