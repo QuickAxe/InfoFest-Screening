@@ -11,7 +11,7 @@ def getData(request):
 @api_view(['POST'])
 def addItem(request):
    
-    #data holds the json data sent by the api call 
+    #data holds the json data sent by the api call
     data = request.data 
     
     # print(data)
