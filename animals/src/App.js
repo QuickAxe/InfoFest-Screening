@@ -5,7 +5,8 @@ import Map from './Map.js';
 function App() {
   return (
     <div className="App">
-      <Map />
+      <div><p> Location </p></div>
+      <div><Map /></div>
     </div>
   );
 }
