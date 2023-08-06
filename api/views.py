@@ -14,12 +14,27 @@ def addItem(request):
     #data holds the json data sent by the api call
     data = request.data 
     
-    # print(data)
+    print(data)
+    
+    # to access a specific field of a json file 
+    print(data["name"])
     
     
     return Response()
 
+def addGps(request):
+    
+    data = request.data 
+    
+    
+    
+
 
 # {
 #     "name" : "hello"
+# }
+
+# {
+# "name" : "hello",
+# "place" : "margao"
 # }
