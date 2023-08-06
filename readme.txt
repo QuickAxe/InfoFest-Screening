@@ -1,8 +1,9 @@
 readme created 
 
-API format for updating GIS of an animal : 
+API format for updating location of an animal : 
 {
     "animal Id" : " xxxxxx",
-    "Gis info" : " _value_ ",
+    "Lat" : " _value_ ",
+    "Long" : " _value_ ",
     "Time sent" : "value"
 }
